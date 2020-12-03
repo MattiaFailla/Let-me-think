@@ -63,3 +63,12 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+### Tests
+
+My problex xyz
+
+```
+#!/usr/bin/node
+console.log('helloworld')
+```
